@@ -1,0 +1,15 @@
+Version 0.1.0
+ - Add Dockerfile
+ - build steps in README and more requirements
+ - Merge pull request #6 from ishansd94/feature/versioning-script
+ - Merge pull request #5 from ishansd94/dev
+ - Requirement rename
+ - Merge pull request #4 from ishansd94/dev
+ - Requirement txt
+ - Merge pull request #3 from ishansd94/dev
+ - Add initial application setup
+ - Merge pull request #1 from ishansd94/local
+ - Add versioning script
+ - Modified README
+ - Initial commit
+
