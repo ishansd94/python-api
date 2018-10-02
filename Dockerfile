@@ -1,4 +1,7 @@
-FROM python:2.7.15-alpine3.6
+FROM ubuntu:16.04
+RUN apt-get update -y
+RUN apt-get install python -y
+RUN apt-get install python-pip python-dev build-essential -y
 WORKDIR /api
 COPY . /api
 ENV FLASK_ENV=development
