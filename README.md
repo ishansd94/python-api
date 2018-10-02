@@ -13,10 +13,8 @@ Sample application to test bitesize deployment pipeline
 ###### Steps
 #
 ```
-# Project root level
-$ virtualenv .
-$ source bin/activate
+
 $ pip install -r requirements.txt
 $ export FLASK_APP=main.py
 $ flask run
-# Available at http://127.0.0.1:5000/
+# Available at http://0.0.0.0:5000/
